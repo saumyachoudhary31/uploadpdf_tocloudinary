@@ -115,7 +115,6 @@ def xyz(request):
 #   print(kfor)
   # return HttpResponse("yes")
 def newone(request):
-  # [{'Date': '10 Mar 2020', 'Description': 'BY TRANSFER- UPI/CR/007040403585/GOVIN D C/HDFC/9806200403/Payme -', 'Debit': 0.0, 'Credit': 10000.0}, {'Date': '11 Mar 2020', 'Description': 'TO CLEARING-HDF MOREYEAHS IT TECHNOLOGIES-376302', 'Debit': 15000.0, 'Credit': 0.0}, {'Date': '12 Mar 2020', 'Description': 'BY TRANSFER-INB IMPS007211382913/95846555 61/XX3253/Payment-', 'Debit': 0.0, 'Credit': 25000.0}, {'Date': '12 Mar 2020', 'Description': 'TO TRANSFER-INB NEFT UTR NO: SBIN220072198966- Nirmala Patidar', 'Debit': 25000.0, 'Credit': 0.0}, {'Date': '12 Mar 2020', 'Description': 'BY TRANSFER-NEFTRR- SBIN220072198966- FBAPI000102 = Error in Def-', 'Debit': 0.0, 'Credit': 25000.0}, {'Date': '16 Mar 2020', 'Description': 'TO TRANSFER- UPI/DR/007630130282/NIRMA LA /HDFC/9584655561/Payme-', 'Debit': 25000.0, 'Credit': 0.0}, {'Date': '25 Mar 2020', 'Description': 'CREDIT INTEREST--', 'Debit': 0.0, 'Credit': 46.0}]
   newauther= Author()
   # newautherxyz=Author()
 
